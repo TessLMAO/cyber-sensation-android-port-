@@ -1,0 +1,10 @@
+{
+	"idle_anim": "TaeYai Idle",
+	"image": "Taeyai",
+	"position": [
+		201,
+		193
+	],
+	"scale": 0.45,
+	"confirm_anim": "M Dad Idle"
+}
